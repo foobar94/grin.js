@@ -1,2 +1,2 @@
 # grin.js
-A Javascript API for Grin
+A Javascript JSON-RPC wrapper for Grin
